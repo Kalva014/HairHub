@@ -1,31 +1,4 @@
 # HairHub
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![MIT License][license-shield]][license-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/sunil-2000/text-to-pixel-gif">
-    <img src="out_images/generated-gifs/diffusiondb-v2-a-snowy-mountain-to-pyramids-in-egypt.gif" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Pixel Giffusion (text-to-pixel-GIF)</h3>
-
-  <p align="center">
-    Generating Pixel-Art-Style Gifs from Text Prompts
-    <br />
-    <a href="https://github.com/sunil-2000/text-to-pixel-gif#examples"><strong>Examples »</strong></a>
-    <br />
-    <br />
-  </p>
-</div>
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -86,10 +59,6 @@ The models that were obtained as a result of fine-tuning with these datasets are
 
    See [here](./colab-notebooks/MorphImages1.ipynb) for more details.
 
-<p align="center">
-<img src="out_images/generated-gifs/diffusiondb_snowy_cabin_in_woods_to_medieval_castle.gif" width="400" height="400" />
-</p>
-
 
 <p align="right">[<a href="#readme-top">Back to Top</a>]</p>
 
@@ -140,13 +109,3 @@ Project Link: FIX THIS LATER
 FILL THIS OUT LATER
 
 <p align="right">[<a href="#readme-top">Back to Top</a>]</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/sunil-2000/text-to-pixel-gif.svg?style=for-the-badge
-[contributors-url]: https://github.com/sunil-2000/text-to-pixel-gif/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sunil-2000/text-to-pixel-gif.svg?style=for-the-badge
-[forks-url]: https://github.com/sunil-2000/text-to-pixel-gif/network/members
-[stars-shield]: https://img.shields.io/github/stars/sunil-2000/text-to-pixel-gif.svg?style=for-the-badge
-[stars-url]: https://github.com/sunil-2000/text-to-pixel-gif/stargazers
-[license-shield]: https://img.shields.io/github/license/sunil-2000/text-to-pixel-gif.svg?style=for-the-badge
-[license-url]: https://github.com/sunil-2000/text-to-pixel-gif/blob/main/LICENSE
